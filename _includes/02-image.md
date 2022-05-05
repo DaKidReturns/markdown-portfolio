@@ -1,2 +1,2 @@
-![Image of an Eye](./profileImage.png)
+![Image of an Eye](_includes/profileImage.png)
 
