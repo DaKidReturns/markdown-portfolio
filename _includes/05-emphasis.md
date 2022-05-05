@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Fluent in **C/C++**
+Fluent in **Python**
+Knows **HTML/CSS**. 
+Not intemidatede by _webpage source code_, created few **web scrappers**
+Worked with _**Machine Learning** and **Artificial Intelligence**_
